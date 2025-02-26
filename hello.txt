@@ -23,4 +23,4 @@ hello the big potato! hello git!master test
 hello the big potato! hello git!hot-fix test
 111111111111111111111111111111111111111
 已经部署了ssh密钥
-
+修改一下验证下pull操作
